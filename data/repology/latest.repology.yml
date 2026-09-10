@@ -1,0 +1,36 @@
+- repo: aur
+  srcname: mdtt
+  binname: mdtt
+  visiblename: mdtt
+  version: 0.3.1
+  origversion: 0.3.1-1
+  status: newest
+  summary: A TUI for Markdown files with VIM-like keybindings
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mdtt-bin
+  binname: mdtt-bin
+  visiblename: mdtt-bin
+  version: 0.3.1
+  origversion: 0.3.1-1
+  status: newest
+  summary: Markdown Table Editor TUI
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: textproc/mdtt
+  binname: mdtt
+  visiblename: textproc/mdtt
+  version: 0.3.1
+  origversion: 0.3.1_17
+  status: newest
+  summary: Terminal-based markdown table editor with vim-style keybindings
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - textproc
