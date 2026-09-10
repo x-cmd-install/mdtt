@@ -22,7 +22,20 @@ x install mdtt
 - **Latest**: `v0.3.1` (2025-05-19)
 - **Last commit**: 2025-05-19
 - **Assets in release**: 9
-- **Published**: 2025-05-19T10:02:01Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [mdtt_0.3.1_checksums.txt](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_0.3.1_checksums.txt) | 720 B | `other` |
+| [mdtt_Darwin_arm64.tar.gz](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Darwin_arm64.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [mdtt_Darwin_x86_64.tar.gz](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Darwin_x86_64.tar.gz) | 2.5 MiB | `native/darwin/x64` |
+| [mdtt_Linux_arm64.tar.gz](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Linux_arm64.tar.gz) | 2.2 MiB | `native/linux/arm64` |
+| [mdtt_Linux_i386.tar.gz](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Linux_i386.tar.gz) | 2.3 MiB | `native/linux/x86` |
+| [mdtt_Linux_x86_64.tar.gz](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Linux_x86_64.tar.gz) | 2.5 MiB | `native/linux/x64` |
+| [mdtt_Windows_arm64.zip](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Windows_arm64.zip) | 2.3 MiB | `native/win/arm64` |
+| [mdtt_Windows_i386.zip](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Windows_i386.zip) | 2.4 MiB | `native/win/x64` |
+| [mdtt_Windows_x86_64.zip](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Windows_x86_64.zip) | 2.6 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +69,8 @@ Total: **1,846** lines of code across **29** files in the top 5 languages.
 Install metadata for mdtt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdtt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mdtt.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/mdtt.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:11:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:18Z._
