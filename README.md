@@ -12,6 +12,17 @@
 x install mdtt
 ```
 
+## Code insight
+
+Total: **1,846** lines of code across **29** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,776 | 70 | 302 | 11 |
+| Sh | 55 | 1 | 14 | 1 |
+| Makefile | 15 | 0 | 5 | 1 |
+| Markdown | 0 | 211 | 65 | 16 |
+
 ## Source
 
 - **Upstream**: <https://github.com/szktkfm/mdtt>
@@ -22,6 +33,25 @@ x install mdtt
 - **Latest**: `v0.3.1` (2025-05-19)
 - **Last commit**: 2025-05-19
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 163 · **Forks**: 3 · **Open issues**: 6 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 7 · **Merged PRs**: 8 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 2 · **Commits**: 27
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 2 | 2 | 0 | 1 | 1 | 4 |
 
 ## Release assets
 
@@ -37,32 +67,9 @@ x install mdtt
 | [mdtt_Windows_i386.zip](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Windows_i386.zip) | 2.4 MiB | `native/win/x64` |
 | [mdtt_Windows_x86_64.zip](https://github.com/szktkfm/mdtt/releases/download/v0.3.1/mdtt_Windows_x86_64.zip) | 2.6 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 163 · **Forks**: 3 · **Open issues**: 6 · **Contributors**: 1
-
-## Totals (cumulative)
-
-- **Releases**: 7 · **Merged PRs**: 8 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 2 · **Commits**: 27
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **1,846** lines of code across **29** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 1,776 | 70 | 302 | 11 |
-| Sh | 55 | 1 | 14 | 1 |
-| Makefile | 15 | 0 | 5 | 1 |
-| Markdown | 0 | 211 | 65 | 16 |
+Reported by **3** distros on [repology.org](https://repology.org/project/mdtt). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -73,4 +80,4 @@ Install metadata for mdtt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:50:23Z._
