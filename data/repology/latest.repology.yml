@@ -27,7 +27,7 @@
   binname: mdtt
   visiblename: textproc/mdtt
   version: 0.3.1
-  origversion: 0.3.1_19
+  origversion: 0.3.1_20
   status: newest
   summary: Terminal-based markdown table editor with vim-style keybindings
   maintainers:
